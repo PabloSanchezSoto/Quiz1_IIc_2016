@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiz1", "Quiz1\Quiz1.csproj", "{4641F998-F898-486E-89AD-8D31AB73FB9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataQuiz", "DataQuiz\DataQuiz.csproj", "{C3C3CE07-6DD5-45C4-BEAF-1582642785E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlExeptions", "HtmlExeptions\HtmlExeptions.csproj", "{F78ABEB5-1C72-4A3C-92D0-CA390DE70356}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4641F998-F898-486E-89AD-8D31AB73FB9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4641F998-F898-486E-89AD-8D31AB73FB9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4641F998-F898-486E-89AD-8D31AB73FB9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4641F998-F898-486E-89AD-8D31AB73FB9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3C3CE07-6DD5-45C4-BEAF-1582642785E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3C3CE07-6DD5-45C4-BEAF-1582642785E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3C3CE07-6DD5-45C4-BEAF-1582642785E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3C3CE07-6DD5-45C4-BEAF-1582642785E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F78ABEB5-1C72-4A3C-92D0-CA390DE70356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F78ABEB5-1C72-4A3C-92D0-CA390DE70356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F78ABEB5-1C72-4A3C-92D0-CA390DE70356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F78ABEB5-1C72-4A3C-92D0-CA390DE70356}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+﻿@model DataQuiz.Models.LenguajesProyecto
+@*@model DataQuiz.Models.Lenguaje*@
+
+<div>
+    <div class="col-lg-3">
+        <img class="col-lg-offset-3" src="http://www.shauntmax30.com/data/out/20/1097468-iron-man-wallpapers-pack-by-irida2-09-02-15.jpg" alt="Smiley face" height="150" width="150" />
+    </div>
+    <div class="col-lg-offset-6">
+        @Html.Partial("PartialViewInfo")
+    </div>
+</div>
+<div>
+    @Html.Partial("PartialViewProyectos", Model.proyecto)
+</div>
+<div>
+    @Html.Partial("PartialViewLenguaje", Model.lenguaje)
+</div>
